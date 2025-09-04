@@ -37,3 +37,5 @@ conda install -c bioconda spades   # Installs the spades tool from the bioconda 
 conda install -c bioconda bcftools  # Installs the bcftools tool from the bioconda channel
 conda install -c bioconda fastp    # Installs the fastp tool from the bioconda channel
 conda install -c bioconda multiqc  # Installs the multiqc tool from the bioconda channel 
+
+# Github link - https://github.com/StMarkFx/HackBioNGS/blob/main/stage0.sh
