@@ -23,7 +23,6 @@ ls -l .                        # Lists the files in the current directory (bioco
 # Project 2
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh  # Downloads the Miniconda installer for Linux
 bash Miniconda3-latest-Linux-x86_64.sh  # Runs the Miniconda installer script with interactive prompts
-source ~/.bashrc                  # Reloads the .bashrc file to apply Conda initialization
 conda activate base               # Activates the base Conda environment
 conda create -n funtools          # Creates a new Conda environment named funtools
 conda activate funtools           # Activates the funtools Conda environment
@@ -37,4 +36,4 @@ conda install -c bioconda bedtools  # Installs the bedtools tool from the biocon
 conda install -c bioconda spades   # Installs the spades tool from the bioconda channel
 conda install -c bioconda bcftools  # Installs the bcftools tool from the bioconda channel
 conda install -c bioconda fastp    # Installs the fastp tool from the bioconda channel
-conda install -c bioconda multiqc  # Installs the multiqc tool from the bioconda channel (note: may fail due to dependency issues)
+conda install -c bioconda multiqc  # Installs the multiqc tool from the bioconda channel 
