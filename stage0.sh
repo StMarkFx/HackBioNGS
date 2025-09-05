@@ -38,4 +38,7 @@ conda install -c bioconda bcftools  # Installs the bcftools tool from the biocon
 conda install -c bioconda fastp    # Installs the fastp tool from the bioconda channel
 conda install -c bioconda multiqc  # Installs the multiqc tool from the bioconda channel 
 
-# Github link - https://github.com/StMarkFx/HackBioNGS/blob/main/stage0.sh
+
+#Professional Profile
+Github repo submission - https://github.com/StMarkFx/HackBioNGS/blob/main/stage0.sh
+LinkedIn post - https://www.linkedin.com/posts/stmarkadebayo_bioinformatics-hackbio-genomics-activity-7369740282684182531-Etm6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEPqdXgB8Q0PUcaOrdpjrOIcdNQeM4UehLA
