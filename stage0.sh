@@ -26,8 +26,8 @@ bash Miniconda3-latest-Linux-x86_64.sh  # Runs the Miniconda installer script wi
 conda activate base               # Activates the base Conda environment
 conda create -n funtools          # Creates a new Conda environment named funtools
 conda activate funtools           # Activates the funtools Conda environment
-sudo apt-get update               # Updates the package lists for the system (requires sudo in Cloud Shell)
-sudo apt-get install figlet -y    # Installs the figlet package with automatic yes to prompts (requires sudo)
+sudo apt-get update               # Updates the package lists for the system 
+sudo apt-get install figlet -y    # Installs the figlet package with automatic yes to prompts 
 figlet StMark                     # Runs figlet to display "StMark" in ASCII art
 conda install -c bioconda bwa     # Installs the bwa tool from the bioconda channel
 conda install -c bioconda blast   # Installs the blast tool from the bioconda channel
