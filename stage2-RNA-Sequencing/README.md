@@ -10,6 +10,11 @@ RNA-seq allows us to profile these transitions and highlight diagnostic or thera
 
 ---
 
+- **LinkedIn post:**
+- **Github repo:** https://github.com/StMarkFx/HackBioNGS/tree/main/stage2-RNA-Sequencing
+
+---
+
 ## Pipeline Overview
 We designed a reproducible RNA-seq pipeline to process 8 samples (4 acute, 4 chronic) from PRJNA867318. Below is the annotated pipeline.
 
